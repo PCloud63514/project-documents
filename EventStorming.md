@@ -25,3 +25,21 @@ EventStorming은 도구일 뿐이니, 예시로 알려드린 스티커의 의미
 | Risk            | 연빨강  |이벤트 진행 과정에서 발생할 수 있는 문제|API 요청실패함<br>잔액부족|
 | ReadModel       | 초록   |이벤트에 필요한 데이터 모델링 정보|닉네임,성별,이메일|
 | External System | 보라   |도메인의 외부에 있는 시스템(Bounded Context)|[회원 도메인] -> 메세지 전송 도메인<br>메세지 전송 도메인 -> Google, Naver, Kakao 등 알림 전송|
+
+## 진행 과정
+
+### 1. 이벤트 붙이기
+<img width="1280" height="986" alt="image" src="https://github.com/user-attachments/assets/50019e0c-86c7-4845-920a-8c4604e80ede" />
+
+### 2. 질문하기
+<img width="1280" height="986" alt="image" src="https://github.com/user-attachments/assets/de11e3a0-559b-46eb-a78c-041d66e5b253" />
+
+### 3. 답변하기
+<img width="1280" height="986" alt="image" src="https://github.com/user-attachments/assets/d0dcb131-54b5-46f6-96dd-d90207047346" />
+
+### 4. 나열하기
+<img width="1280" height="815" alt="image" src="https://github.com/user-attachments/assets/8af17a92-8eb1-404a-b2f5-a301cc309d80" />
+
+### 5. 정리하기
+<img width="1280" height="815" alt="image" src="https://github.com/user-attachments/assets/a3aa2dca-eacf-4de7-b3e6-b4e25cd890ec" />
+
